@@ -1,0 +1,60 @@
+
+.logedinTime{
+    display: block;
+    position: fixed;
+    right: 0;
+}
+
+.btnn{
+    display: flex;
+    align-items: center;
+}
+
+.MuiButton-label{
+    padding: 2em;
+    margin-right: 2em;
+
+
+}
+
+.btnngroup{
+    display: flex;
+    margin-right: 5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .deshboard{
+    display:'flex';
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background: rgb(57, 172, 243);
+    width: 30em;
+    height: 20em;
+    
+} */
+
+
+/* .main{
+    background-color: red   ;
+    display: flex;
+} */
