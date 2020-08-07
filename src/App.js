@@ -1,7 +1,7 @@
 import React from 'react';
 // import Deshboard from './components/deshboard'
 import Signin from './components/signin'
-import stylesheet from './stylesheet.css'
+import './stylesheet.css'
 
 import './App.css';
 
